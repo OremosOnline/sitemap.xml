@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.oremos.online/sitemap">
+  <!-- Página de Inicio -->
+  <url>
+    <loc>https://www.oremos.online/inicio</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Sobre Nosotros -->
+  <url>
+    <loc>https://www.oremos.online/sobre-nosotros</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Algo para Leer -->
+  <url>
+    <loc>https://www.oremos.online/algo-para-leer</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Descargas -->
+  <url>
+    <loc>https://www.oremos.online/descargas</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Estados -->
+  <url>
+    <loc>https://www.oremos.online/descargas/estados</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- GIFs -->
+  <url>
+    <loc>https://www.oremos.online/descargas/gifs</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Backgrounds -->
+  <url>
+    <loc>https://www.oremos.online/descargas/background</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Oraciones -->
+  <url>
+    <loc>https://www.oremos.online/descargas/oraciones</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Reflexiones -->
+  <url>
+    <loc>https://www.oremos.online/descargas/reflexiones</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Juegos -->
+  <url>
+    <loc>https://www.oremos.online/juegos</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Canal de YouTube -->
+  <url>
+    <loc>https://www.oremos.online/canal-de-youtube</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Contactos -->
+  <url>
+    <loc>https://www.oremos.online/cont%C3%A1ctos</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Historias y Testimonios -->
+  <url>
+    <loc>https://www.oremos.online/historias-y-testimonios</loc>
+    <priority>0.7</priority>
+  </url>
+</urlset>
